@@ -1,10 +1,10 @@
 {
   "name": "nedbailov",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "\"A personal card for Stanislau Niadbailau (@venikman)\"",
   "main": "index.js",
-    "bin": {
-      "nedbailov": "index.js"
+  "bin": {
+    "nedbailov": "index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
