@@ -1,0 +1,25 @@
+{
+  "name": "nedbailov",
+  "version": "0.0.1",
+  "description": "\"A personal card for Stanislau Niadbailau (@venikman)\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/venikman/nedbailov.git"
+  },
+  "keywords": [
+    "card",
+    "profile",
+    "links",
+    "social"
+  ],
+  "author": "\"Stanislau Niadbailau <nedbailov375426@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/venikman/nedbailov/issues"
+  },
+  "homepage": "https://github.com/venikman/nedbailov#readme"
+}
