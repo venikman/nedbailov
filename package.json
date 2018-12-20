@@ -10,6 +10,7 @@
     "type": "git",
     "url": "git+ssh://git@github.com/venikman/nedbailov.git"
   },
+  "files": "index.js",
   "keywords": [
     "card",
     "profile",
