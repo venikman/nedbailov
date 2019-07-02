@@ -16,7 +16,7 @@ let data = {
   'name': chalk.white('Stanislau Niadbailau /'),
   'email': chalk.white('nedbailov375426@gmail.com'),
   'handle': chalk.cyan('venikman'),
-  'work': chalk.white('Full-Stack Developer at Chords'),
+  'work': chalk.white('Senior Software Developer at Humana'),
   'twitter': chalk.cyan('https://twitter.com/venik_man'),
   'github': chalk.cyan('https://github.com/venikman'),
   'linkedin': chalk.cyan('https://www.linkedin.com/in/stanislau-niadbailau-51b012123/'),
